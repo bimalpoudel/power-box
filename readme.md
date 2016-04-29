@@ -1,3 +1,3 @@
 # Power Box
 
-WordPress widget with ambitions to power the sidebar with user configured contents.
+A WordPress Widget with ambitions to power the sidebar with user configured contents.

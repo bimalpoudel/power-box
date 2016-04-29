@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Power Box
  * Plugin URI: http://bimal.org.np/
- * Description: Puts almost anything in Widget Boxes. After activation <a href="widgets.php">Appearance &gt; Widgets</a>, add blocks.
+ * Description: Widget to put power boxes in sidebars. After activation <a href="widgets.php">Appearance &gt; Widgets</a>, add and configure Power Box blocks.
  * Author: Bimal Poudel
  * Author URI: http://bimal.org.np/
  * Version: 1.0.0
@@ -12,7 +12,7 @@
 class power_box extends WP_Widget
 {
 	/**
-	 * Each of these default values should be setup within Widget Interface
+	 * Each of these placeholder hinting values should be setup within Widget Interface
 	 */
 	private $power_title = 'One Liners';
 	private $power_url = 'http://bimal.org.np/micro-services/one-liners.php';
