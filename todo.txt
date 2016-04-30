@@ -1,3 +1,4 @@
 # @todo
 
- * Use attribution url/name
+ * Use attribution url/name - may be optional
+ * If the content url is not valid; err. FILTER_VALIDATE_URL
