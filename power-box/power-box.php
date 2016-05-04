@@ -41,7 +41,7 @@ class power_box extends WP_Widget
 	<input class="widefat" id="<?php echo $this->get_field_id('title'); ?>" name="<?php echo $this->get_field_name('title'); ?>" type="text" value="<?php echo $instance['title']; ?>" placeholder="<?php echo $this->title; ?>" />
 </p>
 <p>
-	<label for="<?php echo $this->get_field_id('power_url'); ?>">Micro Content URL *:</label>
+	<label for="<?php echo $this->get_field_id('power_url'); ?>">Micro Content URL *: <a href="https://github.com/bimalpoudel/power-box/tree/master/documentation/setting-your-own-host.md">Learn More</a></label>
 	<input class="widefat" id="<?php echo $this->get_field_id('power_url'); ?>" name="<?php echo $this->get_field_name('power_url'); ?>" type="text" value="<?php echo $instance['power_url']; ?>" placeholder="<?php echo $this->power_url; ?>" />
 </p>
 <p>

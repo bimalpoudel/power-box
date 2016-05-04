@@ -1,5 +1,7 @@
 Download and Install [Power Box](https://wordpress.org/plugins/power-box/) plugin from WordPress website.
 
+Configure what to show, in WP Admin > Appearance > Widgets.
+
 ## Setup requires 4 parameters:
 
 * Content Heading
@@ -15,10 +17,13 @@ You can design your own conent server for multiple purposes, easily.
 
 ## Possible usages:
 
+@todo Give examples for each.
+
  * Tip|Joke|Quote of the Day (HTML File)
- * Image of the Day (Media File)
- * Twitter Feed - Needs to host a twitter widget HTML/Javascript. [@todo] Example
+ * Picture of the Day (Media File)
+ * Twitter Feeds - Needs to host a twitter widget HTML/Javascript. [@todo] Example
  * Photography Collection
+ * Forex Charts
  * Advertisements
  * Notices
 
@@ -26,6 +31,7 @@ The list does not have to be final.
 You can host anything once you design your own Micro Content Server. 
 
 Power Box plugin provides a placeholder for your desired contents.
+
 
 <!--
 
