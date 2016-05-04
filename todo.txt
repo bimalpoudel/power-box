@@ -2,3 +2,4 @@
 
  * Create a documentation on Micro-Services.
  * Make searchable and self configured power box form filling.
+ * Sample data filler for - Quote of the Day

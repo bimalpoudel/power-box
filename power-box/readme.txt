@@ -2,7 +2,7 @@
 
 Contributors: pbimal
 Donate link: http://bimal.org.np/
-Tags: power, box, widget, url, content, remote, hosted
+Tags: box, content, hosted, power, power box, remote, url, widget
 Requires at least: 4.5
 Tested up to: 4.5
 Stable tag: 1.0.0
