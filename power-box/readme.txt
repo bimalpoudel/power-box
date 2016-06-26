@@ -15,12 +15,17 @@ Displays a Widget Box with user configured custom content.
 
 == Description ==
 
-Joke of The Day, Quote of the Day, ...? Now you can configure the Power Box display your own contents beyond your imagination. Further example might be like, Advertisements, Twitter Feeds, Forex Rates, Picture of the Day or anything else. But all at your own configuration. Install the plugin and in Sidebar Widgets, point the Power URL to your micro service, and it can display almost anything.
+Display contents in Sidebar Widgets, beyond your imagination. Examples: Quote|Joke|Photo of the Day, Advertisements, Twitter Feeds, Forex Rates, anything else. All at your own configuration.
+
+== Installation ==
+
+Follow the installation methods below. 
 
 After installation, configure the Power Box in WP Admin > Appearance > Widgets. Drag a Power Box widget and configure what to show.
 
+You can use several power-box windows at once.
 
-== Installation ==
+[Learn more about how to create your own conent hosting](https://github.com/bimalpoudel/power-box/blob/master/documentation/setting-your-own-host.md).
 
 
 = Method #1 =
@@ -57,22 +62,30 @@ As a matter of rule, do not point to untrusted source.
 
 = What are the possible implementations? =
 
-Quotation of the day is a generic example. You can link it to third party notices, advertisements, Twitter feeds, Forex Rates, Pictures, ... and almost anything else.
+Quotation of the day is a very generic example. You can link it to third party notices, advertisements, Twitter feeds, Forex Rates, Pictures, ... and almost anything else.
 
 = Do I need to create my Content Server? =
 
 If the existing services and available APIs do not work, you should. It is actually very simple. A dedicated url that servers a tiny piece of HTML/Javascript/CSS output is enough. Do not limit your imaginations.
 
+= How can I create my own Micro Content Server? =
+
+[Details here](https://github.com/bimalpoudel/power-box/blob/master/documentation/setting-your-own-host.md)
+
 = Can I customize the output? =
 
-You can pass parameters as GET in the URL. And, your content server should respond accordingly.
+You can pass parameters as GET in the URL. And, your content server should respond accordingly. Take care of customization while creating your micro content server.
+
+= Why should I create my micro content server? =
+
+Shortly, to design the contents yourself. If you can use the public content APIs, ok.
 
 
 == Screenshots ==
 
-1. Configuration Window in WP Admin > Appearance > Widgets.
+1. Drag power-box from Configuration Window in WP Admin > Appearance > Widgets.
 
-2. Output in your side bar.
+2. Output in your blog's side bar.
 
 
 == Changelog ==
