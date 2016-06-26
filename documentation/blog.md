@@ -2,17 +2,20 @@ Download and Install [Power Box](https://wordpress.org/plugins/power-box/) plugi
 
 Configure what to show, in WP Admin > Appearance > Widgets.
 
-## Setup requires 4 parameters:
+## Setup: 4 parameters
 
-* Content Heading
-* Content URL (HTML Output only)
-* Attribution Name, and attribution link
+ * Content Heading
+ * Micro Content Service URL (HTML Output preferred)
+ * Attribution Name
+ * Attribution link
 
 
 ## How to host a micro-content?
 
 You can design your own conent server for multiple purposes, easily.
-@todo Examples
+[Read More on this topic](https://github.com/bimalpoudel/power-box/blob/master/documentation/setting-your-own-host.md).
+
+@todo Give examples
 
 
 ## Possible usages:
